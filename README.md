@@ -1,10 +1,10 @@
 # Hi, I'm Mohd Mahedi Bakali 👋
 
-🎓 Final Year B.E. AI & Data Science | BNCOE Pusad, Maharashtra\
-🔭 Currently: AI & Cloud Intern @ IBM Edunet Foundation (AICTE Approved)\
-🌱 Learning: LangChain · Agentic AI · watsonx · IBM Cloud\
-💬 Ask me about: Python, Machine Learning, RAG systems, Data Analysis\
-📫 Reach me: mohdmahedibakali@gmail.com\
+🎓 Final Year B.E. AI & Data Science | BNCOE Pusad, Maharashtra<br>
+🔭 Currently: AI & Cloud Intern @ IBM Edunet Foundation (AICTE Approved)<br>
+🌱 Learning: LangChain · Agentic AI · watsonx · IBM Cloud<br>
+💬 Ask me about: Python, Machine Learning, RAG systems, Data Analysis<br>
+📫 Reach me: mohdmahedibakali@gmail.com<br>
 🔗 LinkedIn: linkedin.com/in/mohd-mahedi-bakali-229145289
 
 ---
